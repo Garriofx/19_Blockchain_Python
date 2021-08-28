@@ -1,4 +1,5 @@
-# Blockchain-PythonExecute the mnemonic.sh file
+# Blockchain-Python
+Execute the mnemonic.sh file
 Direct to the wallet directory in your Command Prompt / Terminal.
 Run python
 Within the Python shell, run the command from wallet import *
